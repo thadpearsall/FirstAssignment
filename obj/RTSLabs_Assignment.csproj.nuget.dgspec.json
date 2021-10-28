@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Thad\\source\\repos\\RTSLabs_Assignment\\RTSLabs_Assignment.csproj": {}
+    "E:\\RTSLabs\\FirstAssignment\\RTSLabs_Assignment.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Thad\\source\\repos\\RTSLabs_Assignment\\RTSLabs_Assignment.csproj": {
+    "E:\\RTSLabs\\FirstAssignment\\RTSLabs_Assignment.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Thad\\source\\repos\\RTSLabs_Assignment\\RTSLabs_Assignment.csproj",
+        "projectUniqueName": "E:\\RTSLabs\\FirstAssignment\\RTSLabs_Assignment.csproj",
         "projectName": "RTSLabs_Assignment",
-        "projectPath": "C:\\Users\\Thad\\source\\repos\\RTSLabs_Assignment\\RTSLabs_Assignment.csproj",
+        "projectPath": "E:\\RTSLabs\\FirstAssignment\\RTSLabs_Assignment.csproj",
         "packagesPath": "C:\\Users\\Thad\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Thad\\source\\repos\\RTSLabs_Assignment\\obj\\",
+        "outputPath": "E:\\RTSLabs\\FirstAssignment\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

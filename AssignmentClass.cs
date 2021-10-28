@@ -26,6 +26,12 @@ namespace RTSLabs_Assignment
             return toRet;
         }
 
+        /// <summary>
+        /// Rotates the string
+        /// </summary>
+        /// <param name="strToRotate"></param>
+        /// <param name="rotationCount"></param>
+        /// <returns>a string rotated by rotationCount</returns>
         public static string stringRotation(string strToRotate, int rotationCount)
         {
             string toRet = "";
